@@ -33,7 +33,7 @@ Following configuration of `jest` is needed.
 ## Usage
 
 ```javascript
-import shallow from 'react-testing-library-shallow`;
+import shallow from 'react-testing-library-shallow';
 import MyComponent from './MyComponent';
 
 describe('MyComponent', () => {
