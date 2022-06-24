@@ -4,7 +4,7 @@
   "description": "Shallow renderer for react-testing-library",
   "main": "./lib/index.js",
   "scripts": {
-    "postversion": "git push origin master && git push --tags && npm publish"
+    "postversion": "git push origin main && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
