@@ -1,0 +1,28 @@
+{
+  "name": "react-testing-library-shallow",
+  "version": "0.0.0",
+  "description": "Shallow renderer for react-testing-library",
+  "main": "./lib/index.js",
+  "scripts": {
+    "postversion": "git push origin master && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipoliko/react-testing-library-shallow.git"
+  },
+  "keywords": [
+    "reac-testing-library",
+    "shallow",
+    "auto-mock"
+  ],
+  "author": "Filip Šátek <satek.filip@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Filipoliko/react-testing-library-shallow/issues"
+  },
+  "homepage": "https://github.com/Filipoliko/react-testing-library-shallow#readme",
+  "peerDependencies": {
+    "@testing-library/react": "*",
+    "react": "*"
+  }
+}
