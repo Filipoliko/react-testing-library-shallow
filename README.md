@@ -1,5 +1,7 @@
 # React Testing Library Shallow
 
+**Project abandoned! Check out [shallow-react-snapshot](https://www.npmjs.com/package/shallow-react-snapshot) instead.**
+
 This library implements `shallow` rendering for [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
 
 *Work in progress! This library is currently optimized only for [Jest](https://jestjs.io) with [`@swc/jest`](https://www.npmjs.com/package/@swc/jest) used for the code transpilation.*
